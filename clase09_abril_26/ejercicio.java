@@ -23,6 +23,9 @@ begin
     else
         print("No existe")
 
+    //sobrecargar el operador - con un entero x para cambiar primer disco del primer archivo a x, si es que existe un archivo
+    e1=e1-6
+
     e1.mostrar();
 
     !e1

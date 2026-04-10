@@ -115,12 +115,14 @@ class ExploradorArchivos
     }
 
 
-    -(Auto a)
+    -(int x)
     {
-        //codigo
-
+        if cantArchivos>0
+            archivos[2,0]=(string)x
+        
         return this
     }
+
 
 
     -(string a)
@@ -139,7 +141,6 @@ class ExploradorArchivos
         string directorio;
         print("ingrese un directorio a borrar")
         read(directorio)
-
 
         for i=0 to cantArchivos-1
         {
