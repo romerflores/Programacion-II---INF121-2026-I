@@ -25,3 +25,12 @@ class Auto:
         
     def __sub__(self, other)->float:
         return self.gasolina+other.gasolina
+
+
+
+
+res=6*7
+a=res+7
+
+print(a)
+
