@@ -1,6 +1,6 @@
 # Puntos Extras
 
-|Nombre|22-02-26|15-05-26||||
+|Nombre|22-02-26|15-05-26|22-05-26|||
 |--|--|--|--|--|--|
 |Rocha Zharick|2|||||
 |Huanca Lopez Sergio Santiago|2|||||
@@ -13,7 +13,7 @@
 |Joel Yujra Huanca|1|||||
 |Jesus Quisbert|1|||||
 |Alan Carvajal Pacovich|1|||||
-|Juan Daniel Escobar Fernandez|1|2||||
+|Juan Daniel Escobar Fernandez|1|2|1|||
 |Joselin Hurtado Paco|1|||||
 |Gabriel Salazar Santa Cruz|1|||||
 |Brañez Vino Misael Tomas|1|||||
