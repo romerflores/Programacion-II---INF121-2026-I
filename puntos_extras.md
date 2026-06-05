@@ -8,8 +8,8 @@
 |Cielo Eyden Ticona San Roman|1|||||
 |Veronica Andrea Garcia Mamani|3|||||
 |Denzel Robert Mamani Laura|2|3||1|1|
-|Magaly Rosa Mamani Mamani|2|1|||2|
-|Joaquin Arteaga|1||||1|
+|Magaly Rosa Mamani Mamani|2|1|||2|1
+|Joaquin Arteaga|1||||1|1
 |Joel Yujra Huanca|1|||||
 |Jesus Quisbert|1|||||
 |Alan Carvajal Pacovich|1|||||
@@ -21,4 +21,5 @@
 |SUSAN DAMARIS APAZA CHOQUEMIZA||1||1||
 |Josue Miranda||2||||
 |Casablanca Condori Jose Carlos|||||1|
-|Espejo Carrillo Daner Fabricio|||||1|
+|Espejo Carrillo Daner Fabricio|||||1|2
+

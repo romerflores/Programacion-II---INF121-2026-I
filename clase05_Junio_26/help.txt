@@ -1,0 +1,20 @@
+a. (3pts) Crear un objeto pintura que tenga un
+// anuncio y otro objeto pintura sin anuncio
+
+//(3pts) Mostrar el nombre del artista con más años de
+Experiencia de ambas pinturas
+
+// (4pts) Se ha decidido vender la pintura sin anuncio,
+se pide agregar un anuncio de venta y determine el
+monto total de venta de ambas pinturas.
+
+
+FILA B
+
+//a. (3pts) Crear dos objetos pintura que tengan
+anuncios de venta
+/(3pts) Calcular el promedio de años Experiencia de
+los artistas de ambas pinturas
+
+Incrementar el precio en X a la pintura del
+artista con nombre X
