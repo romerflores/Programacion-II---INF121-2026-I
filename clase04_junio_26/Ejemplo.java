@@ -252,8 +252,8 @@ class MinisterioDeTrabajo
         bool noseencuntra=true;
         for i=0 to ncp-1
         {
-            if(cols[i]==col)
-            if(cols[i].getMaximaAutoridad()!=col.getMaximaAutoridad() )
+            if(cols[i]==col)//esta forma
+            if(cols[i].getMaximaAutoridad()!=col.getMaximaAutoridad())
             {
                 noseencuntra=false;
                 break;
