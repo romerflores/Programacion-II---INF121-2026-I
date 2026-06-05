@@ -17,4 +17,4 @@ anuncios de venta
 los artistas de ambas pinturas
 
 Incrementar el precio en X a la pintura del
-artista con nombre X
+artista con nombre Y
