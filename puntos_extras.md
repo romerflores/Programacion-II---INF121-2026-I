@@ -4,7 +4,7 @@
 |--|--|--|--|--|--|--|
 |Rocha Zharick|2||||||
 |Huanca Lopez Sergio Santiago|2||||||
-|Jhoel Angel Justo Marquez|3|||1|||
+|Jhoel Angel Justo Marquez|3|||1||1|
 |Cielo Eyden Ticona San Roman|1||||||
 |Veronica Andrea Garcia Mamani|3||||||
 |Denzel Robert Mamani Laura|2|3||1|1||

@@ -27,7 +27,7 @@ class Caja
 {
     private:
         int nroSobres;
-        Sobre s[10];
+        Sobre sobres[10];
 
     /**
      * Asumimos que los constructorues, mostrar, los getters y setters ya estan implementados
